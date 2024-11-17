@@ -1,0 +1,2 @@
+# SafeWeb
+Safe Chrome extension
